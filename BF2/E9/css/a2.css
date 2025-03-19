@@ -1,0 +1,23 @@
+.a {
+    background-color: #b9e9d9b9;
+    margin-inline: 40rem;
+}
+.d {
+    text-decoration: underline;
+}
+.b {
+    margin-inline: 40rem;
+    font-weight: 600;
+    font-size: 5rem;
+}
+.c {
+    margin-inline: 40rem 58rem;
+    margin-top: -2rem;
+}
+.z {
+    border-style: solid;
+    border-color: #918484;
+    border-radius: 1rem;
+    margin-inline: 40rem 71rem;
+    margin-top: 2rem;
+}

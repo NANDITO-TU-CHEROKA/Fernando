@@ -1,0 +1,26 @@
+img {
+    border-radius: 50%;
+    object-position: center;
+    object-fit: cover;
+    width: 20px;
+    height: 20px;
+}
+body {
+    background-color: #faebd7;
+    color: #0000ff;
+    font-style: italic;
+    word-spacing: 1rem;
+}
+.a {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ff0000;
+    letter-spacing: 1rem;
+}
+.e {
+    color: #000000;
+}
+.f {
+    color: #961b1b;
+}

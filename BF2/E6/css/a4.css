@@ -1,0 +1,11 @@
+strong {
+    background-color: #ffff00;
+    opacity: 0.5;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: #ff0000;
+}
+body {
+    color: #0a2fff;
+}

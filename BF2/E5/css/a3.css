@@ -1,0 +1,10 @@
+body {
+    color: #ff0000;
+}
+.cambi {
+    font-weight: normal;
+}
+body:hover{
+    color: #0000ff;
+    font-family: cursive;
+}

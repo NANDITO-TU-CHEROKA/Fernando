@@ -1,0 +1,15 @@
+body {
+    font-size: 2.5rem;
+    color: #3737aa;
+}
+.b {
+    text-transform: uppercase;
+}
+.cursi {
+    font-style: italic;
+    background-color: #ffff00;
+}
+.negrita {
+    font-weight: bold;
+    color: #000000;
+}

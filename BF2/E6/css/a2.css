@@ -1,0 +1,22 @@
+body {
+    color: #8a23cf;
+}
+.a {
+    max-width: 110rem;
+}
+.b {
+    max-width: 90rem;
+}
+.c {
+    max-width: 70rem;
+}
+.d {
+    max-width: 50rem;
+}
+body {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    font-style: italic;
+    
+}
