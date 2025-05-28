@@ -1,0 +1,10 @@
+body {
+    width: 500px;
+    margin: 100px;
+    padding: 10px;
+    border-radius: 1px;
+    background-color: #ffffff;
+    border: 40px solid #ff7b00;
+    border-right: 40px dashed #ff7b00;
+    border-left: 40px dashed #ff7b00;
+}

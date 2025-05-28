@@ -1,0 +1,56 @@
+.img1 {
+    background-image: url(../img/img1.jpg);
+    min-height: 512px;
+    margin-top: -1.5rem;
+    margin-inline: -1rem;
+}
+.z {
+    color: #ff0000;
+    margin-inline: 45rem;
+}
+.img2 {
+    background-image: url(../img/red-fabric-textured-background.jpg);
+    min-height: 512px;
+    margin-top: -1.5rem;
+    margin-inline: -1rem;
+}
+.x {
+    color: #1100ff;
+    margin-inline: 41rem;
+    margin-top: 4rem;
+}
+.c {
+    color: #1900ff;
+    margin-inline: 45rem;
+}
+.v {
+    color: #ffffff;
+    margin-inline: 55rem;
+    margin-top: 6rem;
+    border: 8px solid #ff0707;
+    border-radius: 4rem;
+}
+.b {
+    color: #ffffff;
+    margin-inline: 50rem;
+}
+.n {
+    color: #ffe600;
+    margin-inline: 40rem;
+    margin-top: 4rem;
+}
+.q {
+    color: #e5ff00;
+    margin-inline: 41rem;
+}
+.w {
+    color: #fbff00;
+    margin-inline: 48rem;
+}
+.m {
+    color: #ffffff;
+    margin-inline: 55rem;
+    margin-top: 6rem;
+    border: 8px solid #0000ff;
+    border-radius: 4rem;
+}

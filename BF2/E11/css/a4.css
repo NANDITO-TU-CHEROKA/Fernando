@@ -1,0 +1,14 @@
+.marco {
+  display: inline-block;
+  padding: 5px;
+  background: linear-gradient(to bottom right, cyan, red);
+  border-radius: 15px;
+}
+
+.marco img {
+  display: block;
+  border-radius: 8px;
+  background-color: white;
+  width: 300px;
+  height: auto;
+}

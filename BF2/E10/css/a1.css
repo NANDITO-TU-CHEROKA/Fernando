@@ -1,0 +1,34 @@
+body {
+    background-color: #fcf3cf;
+}
+.a {
+    margin-inline: 5rem 80rem;
+    font-size: 4rem;
+    font-weight: 10;
+}
+.b {
+    margin-left: 5rem;
+    margin-right: 83rem;
+    font-size: 2rem;
+    font-weight: 1;
+}
+.d {
+    background-color: #aed6f1;
+    font-size: 1.1rem;
+    font-weight: 1;
+    text-align: center;
+}
+.q {
+    margin-top: -23rem;
+    margin-left: 40rem;
+}
+.c {
+    background-color: #4595a4;
+    margin-inline: 5rem 108rem;
+    color: #ffffff;
+}
+.p {
+    margin-inline: 13rem;
+    margin-top: -2.5rem;
+    color: #4595a4;
+}

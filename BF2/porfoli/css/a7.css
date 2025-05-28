@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #2e003e, #1b1b2f);
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background-color: #2e003e;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+header h1 {
+  font-size: 2.8rem;
+  color: #00c2ff;
+  margin-bottom: 1rem;
+}
+header p {
+  font-size: 1.3rem;
+  color: #00ffab;
+  margin-bottom: 2rem;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  list-style: none;
+}
+nav a {
+  color: #ff4d4d;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+nav a:hover {
+  color: #ffffff;
+  background-color: #ff4d4d;
+  border-radius: 8px;
+}
+main {
+  flex: 1;
+  padding: 3rem 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+section h2 {
+  color: #00c2ff;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.paginas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+.card {
+  background-color: #1b1b2f;
+  padding: 1.5rem;
+  border-radius: 12px;
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 6px 12px rgba(0, 255, 171, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  flex: 1 1 30%;
+  text-align: center;
+  font-weight: bold;
+}
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 20px rgba(0, 255, 171, 0.6);
+  background-color: #00ffab;
+  color: #2e003e;
+}
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.8rem;
+  background-color: #ff4d4d;
+  color: #ffffff;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+.btn:hover {
+  background-color: #ff1a1a;
+}
+#contacto p {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+}
+footer {
+  text-align: center;
+  background-color: #1b1b2f;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #999;
+}
